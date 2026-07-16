@@ -13,17 +13,11 @@ Predict how much a customer will spend next month.
 Obtained in EDA notebook:
 
 - RFM (Recency, Frequency, Monetary)
-
 - Number of products purchased
-
 - Average basket size
-
 - Number of unique products
-
 - Country
-
 - Average time between purchases
-
 - Average order value
 
 ### Algorithms for regression
