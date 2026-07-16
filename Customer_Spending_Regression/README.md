@@ -8,20 +8,31 @@ This is a project based on Online Retail I+II datasets.
 
 Predict how much a customer will spend next month.
 
-Features
-RFM (Recency, Frequency, Monetary)
-Number of products purchased
-Average basket size
-Number of unique products
-Country
-Average time between purchases
-Average order value
-Algorithms
-Linear Regression
-Ridge
-Lasso
-Elastic Net
-Compare
-MAE
-RMSE
-R²
+### Features to be used for regression
+
+Obtained in EDA notebook:
+
+- RFM (Recency, Frequency, Monetary)
+
+- Number of products purchased
+
+- Average basket size
+
+- Number of unique products
+
+- Country
+
+- Average time between purchases
+
+- Average order value
+
+### Algorithms for regression
+- Linear Regression
+- Ridge
+- Lasso
+- Elastic Net
+
+#### Metric
+- MAE
+- RMSE
+- R²
